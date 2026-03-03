@@ -24,7 +24,7 @@
   </tr>
   <tr>
     <td colspan="2" bgcolor="#f9f9f9">
-      💡 AI에 대한 <b>대중의 신뢰</b>가 흔들리고 있으며, 이를 해결하고자 업계의 노력이 필요함<br> 
+      💡 AI에 대한 <b>대중의 신뢰</b>가 흔들리고 있으며, 이를 해결하고자 업계의 노력이 필요<br> 
     </td>
     <tr>
     <td width="30%" align="center" bgcolor="#f0f2f5"><b>🖥️ GenAI & 3D</b></td>
