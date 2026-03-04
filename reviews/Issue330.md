@@ -9,4 +9,4 @@ title: "The Batch Issue 330 리뷰"
 <br>
 
 
-[홈으로 돌아가기](/)
+[홈으로 돌아가기](/the-batch-review/)
