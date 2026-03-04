@@ -1,7 +1,6 @@
 ---
-layout: page
+layout: default
 title: "The Batch Issue 330 리뷰"
-permalink: /reviews/issue330/
 ---
 
 # 📬 The Batch Issue 330 Review
