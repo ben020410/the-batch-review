@@ -18,7 +18,7 @@
     <td align="center">
       <b>25-12-10</b><br>
       Issue&nbsp;331<br>
-      <a href="./reviews/Issue330.html"><b>리뷰 링크</b></a>
+      <a href="./reviews/Issue331.html"><b>리뷰 링크</b></a>
     </td>
     <td><img src="./assets/251204.gif" width="600"></td>
   </tr>
