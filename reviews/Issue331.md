@@ -10,7 +10,7 @@ title: "The Batch Issue 331 리뷰"
 
 ## 💡 Andrew Ng 교수의 서문
 • 현재 기술력으로 실용적인 에이전트를 만들려면, 자율성에만 맡기지 말고 개발자가 단계별 동작을 제어하는 **Scaffolding Code**를 촘촘히 짜야 함 <br>
-• **Aisuite**는 Andrew Ng 교수가 주도한 오픈소스 프로젝트로, 개발자가 여러 LLM 모델을 간편하게 교체하고 툴을 연결할 수 있도록 표준화된 방식 제공 <br>
+• [**Aisuite**](https://github.com/andrewyng/aisuite)는 Andrew Ng 교수가 주도한 오픈소스 프로젝트로, 개발자가 여러 LLM 모델을 간편하게 교체하고 툴을 연결할 수 있도록 표준화된 방식 제공 <br>
 
 <br>
 
