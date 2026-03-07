@@ -4,7 +4,7 @@ title: "The Batch Issue 332 리뷰"
 ---
 
 # 📬 [Issue 332](https://www.deeplearning.ai/the-batch/issue-332/) (25-12-18)
-> 내용
+> Gemini 3에 대응하는 OpenAI의 새 모델, Runway의 상호작용이 가능한 세계 모델, Disney와 OpenAI의 협업, LLM을 어떠한 형태의 데이터에도 적응시키다
 
 <br>
 
