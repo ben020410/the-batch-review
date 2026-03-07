@@ -11,10 +11,6 @@
 🖥️: 뉴스레터에서 집중적으로 소개하는 AI 동향
 <table>
   <tr>
-    <th width="20%">날짜 / 연번</th>
-    <th width="80%">썸네일</th>
-  </tr>
-  <tr>
     <td align="center">
       <b>25-12-10</b><br>
       Issue&nbsp;331<br>
@@ -49,10 +45,28 @@
 <br>
 
 <table>
+
   <tr>
-    <th width="20%">날짜 / 연번</th>
-    <th width="80%">썸네일</th>
+    <td align="center">
+      <b>25-12-10</b><br>
+      Issue&nbsp;331<br>
+      <a href="./reviews/Issue331.html"><b>리뷰 링크</b></a>
+    </td>
+    <td><img src="./assets/251210.webp" width="600"></td>
   </tr>
+  <tr>
+    <td colspan="2" bgcolor="#f9f9f9">
+      💡 실용적인 에이전트를 만들려면 자율성에만 맡기지 말고 개발자가 <b>단계별 동작을 제어</b>해야 함<br> 
+    </td>
+    <tr>
+    <td colspan="2" bgcolor="#f0f2f5">
+      🖥️ <b>Claude:</b> Opus 4.5 출시, 더 적은 토큰으로 정상급 성능 도달<br>
+      🖥️ <b>백악관:</b> AI를 공동 과학자로 세우는 ‘제네시스 미션’ 발표<br>
+      🖥️ <b>Amazon:</b> 가성비를 넘어 정상급 성능으로, Nova 2 시리즈 공개<br>
+      🖥️ <b>소형 모델의 반란:</b> 크기보다 추론 방식이 중요하다
+    </td>
+  </tr>
+
   <tr>
     <td align="center">
       <b>25-12-04</b><br>
