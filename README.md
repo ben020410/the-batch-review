@@ -14,23 +14,23 @@
 
   <tr>
     <td align="center">
-      <b>25-12-10</b><br>
-      Issue&nbsp;331<br>
-      <a href="./reviews/Issue331.html"><b>리뷰 링크</b></a>
+      <b>25-12-18</b><br>
+      Issue&nbsp;332<br>
+      <a href="./reviews/Issue332.html"><b>리뷰 링크</b></a>
     </td>
-    <td><img src="./assets/251210.webp" width="600"></td>
+    <td><img src="./assets/251218.gif" width="600"></td>
   </tr>
   
   <tr>
     <td colspan="2" bgcolor="#f9f9f9">
-      💡 실용적인 에이전트를 만들려면 자율성에만 맡기지 말고 개발자가 <b>단계별 동작을 제어</b>해야 함<br> 
+      💡 현대 AI의 발전은 <b>조각조각(Piecemeal)</b> 이어붙이는 방식이지만, 일반화와 창발적 행동으로 인해 혁신이 일어날 수 있을 것<br> 
     </td>
     <tr>
     <td colspan="2" bgcolor="#f0f2f5">
-      🖥️ <b>Claude:</b> Opus 4.5 출시, 더 적은 토큰으로 정상급 성능 도달<br>
-      🖥️ <b>백악관:</b> AI를 공동 과학자로 세우는 ‘제네시스 미션’ 발표<br>
-      🖥️ <b>Amazon:</b> 가성비를 넘어 정상급 성능으로, Nova 2 시리즈 공개<br>
-      🖥️ <b>소형 모델의 반란:</b> 크기보다 추론 방식이 중요하다
+      🖥️ <b>Runway:</b> 시공간 지능을 갖춘 일반 세계 모델 GWM-1 발표<br>
+      🖥️ <b>Disney & OpenAI:</b> 콘텐츠 거물과 AI 선두주의 전략적 혈맹<br>
+      🖥️ <b>OpenAI:</b> 구글에 맞선 코드 레드, GPT-5.2 라인업 기습 공개<br>
+      🖥️ <b>기술 연구:</b> 단 32개의 샘플로 전문 지식을 습득하는 SEMI 기법
     </td>
     </tr>
   </tr>
