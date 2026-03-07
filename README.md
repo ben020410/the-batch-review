@@ -9,7 +9,12 @@
 ## 📑 최근 리뷰
 💡: Andrew Ng 교수의 서문 <br>
 🖥️: 뉴스레터에서 집중적으로 소개하는 AI 동향
+
 <table>
+  <tr>
+    <th width="20%">날짜 / 연번</th>
+    <th width="80%">썸네일</th>
+  </tr>
   <tr>
     <td align="center">
       <b>25-12-10</b><br>
@@ -45,7 +50,10 @@
 <br>
 
 <table>
-
+  <tr>
+    <th width="20%">날짜 / 연번</th>
+    <th width="80%">썸네일</th>
+  </tr>
   <tr>
     <td align="center">
       <b>25-12-10</b><br>
